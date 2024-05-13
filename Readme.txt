@@ -1,3 +1,5 @@
+Github Link - https://github.com/ashwith1/mini.git
+
 SRH-University-Chatbot
     A web-based chatbot to assist SRH University Heidelberg students with their inquiries.
 
