@@ -1,0 +1,27 @@
+# Literature Review: Overview of Existing NLP models and Techniques used that helps in making Chatbot
+
+Introduction:
+Chatbots have become an essential tool in various domains, including customer service, healthcare, and education.
+We will be making conversational chatbot that helps the user and provide information to them about the SRH University.
+
+We will be using existing NLP Models for Chatbot Development:
+
+1) BERT (Bidirectional Encoder Representations from Transformers)
+It uses bidirectional training of Transformer encoders to achieve SOTA(state-of-the-art) results on a variety of NLP tasks.
+
+2) GPT (Generative Pre-trained Transformer) (this is the reason I chose this model)
+GPT-2 generate human-like text, effective in creating conversational agents.
+
+3) Rasa
+It combines machine learning and rule-based approaches and includes tools for intent recognition, entity extraction, and dialogue management.
+
+Applications in Academic Support Chatbots
+Academic support chatbots leverage these NLP advancements to assist students with various queries, including:
+
+- Course Information: Providing details on course schedules, requirements, and content.
+- Administrative Support: Answering questions about registration deadlines, financial aid, and university policies.
+- Study Assistance: Offering guidance on study materials, exam preparation, and academic resources.
+
+Conclusion
+Transformer-based models like BERT and GPT have set new standards in NLP, enabling chatbots to understand and generate human-like text. 
+Future research and development will likely focus on improving the integration of these models with real-time data and enhance their multilingual capabilities.
