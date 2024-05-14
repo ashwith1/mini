@@ -30,11 +30,6 @@ Getting Started-
 This will start the local development server on http://127.0.0.1:5000/. You can open this URL in your web browser to interact with the chatbot.
 
 
-6. Running the Server Remotely:
-    pip install gunicorn
-    Run command: gunicorn -w 4 app:app 
-
-
 7. Environment Configuration:
     Make sure to set up the environment variables correctly if your application requires any. 
     This includes any specific configurations needed for deployment.
